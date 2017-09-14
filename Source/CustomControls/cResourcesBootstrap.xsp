@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view
+	xmlns:xp="http://www.ibm.com/xsp/core">
+	<xp:this.resources>
+		<xp:headTag
+			tagName="script">
+			<xp:this.attributes>
+				<xp:parameter
+					name="type"
+					value="text/javascript">
+				</xp:parameter>
+				<xp:parameter
+					name="src"
+					value="bower_components\bootstrap\dist\js\bootstrap.min.js">
+				</xp:parameter>
+			</xp:this.attributes>
+		</xp:headTag>
+		<!--
+			<xp:headTag tagName="link" rendered="true" loaded="true"> <xp:this.attributes> <xp:parameter name="rel"
+			value="stylesheet"></xp:parameter> <xp:parameter name="type" value="text/css"></xp:parameter> <xp:parameter name="href"
+			value="bower_components\bootstrap\dist\css\bootstrap.min.css"> </xp:parameter> </xp:this.attributes> </xp:headTag> <xp:headTag
+			tagName="link" rendered="true" loaded="true"> <xp:this.attributes> <xp:parameter name="rel" value="stylesheet"></xp:parameter>
+			<xp:parameter name="type" value="text/css"></xp:parameter> <xp:parameter name="href"
+			value="bower_components\bootstrap\dist\css\cosmo.min.css"> </xp:parameter> </xp:this.attributes> </xp:headTag> <xp:headTag tagName="link"
+			rendered="true" loaded="true"> <xp:this.attributes> <xp:parameter name="rel" value="stylesheet"></xp:parameter> <xp:parameter name="type"
+			value="text/css"></xp:parameter> <xp:parameter name="href"
+			value="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> </xp:parameter> </xp:this.attributes> </xp:headTag>
+		-->
+	</xp:this.resources>
+</xp:view>

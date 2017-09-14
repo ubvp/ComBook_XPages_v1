@@ -1,0 +1,34 @@
+<theme
+	extends="webstandard"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="platform:/plugin/com.ibm.designer.domino.stylekits/schema/stylekit.xsd">
+	<!-- jquery js -->
+	<resource>
+		<content-type>application/x-javascript</content-type>
+		<href>bower_components/bower_components/jquery/dist/jquery.min.js</href>
+	</resource>
+
+	<!-- bootstrap js -->
+	<resource>
+		<content-type>application/x-javascript</content-type>
+		<href>bower_components/bower_components/bootstrap/dist/js/bootstrap.min.js</href>
+	</resource>
+
+	<!-- bootstrap css -->
+	<resource>
+		<content-type>text/css</content-type>
+		<href>bower_components/bower_components/bootstrap/dist/css/bootstrap.min.css</href>
+	</resource>
+
+	<!-- font-awesome css -->
+	<resource>
+		<content-type>text/css</content-type>
+		<href>https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css</href>
+	</resource>
+
+	<!-- sandstone css -->
+	<resource>
+		<content-type>text/css</content-type>
+		<href>bower_components/bootstrap/dist/css/cosmo.min.css</href>
+	</resource>
+</theme>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
+ maintenanceversion='1.8' replicaid='C125819B002B3144'>
+<noteinfo noteid='122' unid='798AC338F69A8CADC1256FD6002C157E' sequence='93'>
+<created><datetime dst='true'>20050401T100130,86+02</datetime></created>
+<modified><datetime dst='true'>20170914T120029,87+02</datetime></modified>
+<revised><datetime dst='true'>20170914T120029,86+02</datetime></revised>
+<lastaccessed><datetime dst='true'>20170914T120029,86+02</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20170914T095148,75+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=François Barnich/OU=VIR/OU=USERS/O=FEDASIL</name><name
+>CN=_DominoAdmin-VIR/OU=ADMIN/O=FEDASIL</name><name>CN=_DominoAdmin-ARL/OU=ADMIN/O=FEDASIL</name><name
+>CN=Valerie Deherder/OU=FHQ/OU=USERS/O=FEDASIL</name><name>CN=Bruno Uyttenhove/OU=FHQ/OU=USERS/O=FEDASIL</name><name
+>CN=Valerie Deherder/OU=FHQ/OU=USERS/O=FEDASIL</name><name>CN=Bruno Uyttenhove/OU=FHQ/OU=USERS/O=FEDASIL</name></updatedby>
+<item name='$DefaultFrameset'><text>Commbook (Grey)</text></item>
+<item name='IconBitmap' summary='true'>
+<rawitemdata type='6'>
+AiAgAQAA/////f////H////B////Af///AH///AB///AAf//AAH//AAB//AAAf/AAAH/AAAB/AAA
+AfAAAAHAAAABAAAAAcAAAAHwAAAB/AAAAf8AAAH/wAAB//AAAf/8AAH//wAB///AAf//8AH///wB
+////Af///8H////x/////f////8AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAACIgAAAAAAA
+AAAAAAAAAACIiIAAAAAAAAAAAAAAAACIiIiAAAAAAAAAAAAAAACIiIiIgAAAAAAAAAAAAACIiIiI
+iIAAAAAAAAAAAACIiIiIiIiAAAAAAAAAAACIiIiIiIiIgAAAAAAAAACIiIiIiIiIiIAAAAAAAACI
+iIiIiIiIiIiAAAAAAACIiIiIiIiIiIiIgAAAAACIiIiIiIiIiIiIiIAAAACIiIiIiIiIiIiIiIiA
+AACIiIiIiIiIiIiIiIiIgACIiIiIiIiIiIiIiIiIiICIiIiIiIiIiIiIiIiIiIiAAIiIiIiIiIiI
+iIiIiIiIgAAAiIiIiIiIiIiIiIiIiIAAAACIiIiIiIiIiIiIiIiAAAAAAIiIiIiIiIiIiIiIgAAA
+AAAAiIiIiIiIiIiIiIAAAAAAAACIiIiIiIiIiIiAAAAAAAAAAIiIiIiIiIiIgAAAAAAAAAAAiIiI
+iIiIiIAAAAAAAAAAAACIiIiIiIiAAAAAAAAAAAAAAIiIiIiIgAAAAAAAAAAAAAAAiIiIiIAAAAAA
+AAAAAAAAAACIiIiAAAAAAAAAAAAAAAAAAIiIgAAAAAAAAAAAAAAAAAAAiIAAAAAAAAAAAAAAAAAA
+AACAAAAAAAAAAAAAAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$Daos'><text>0</text></item>
+<item name='$TITLE'><text>Combook XPages
+ComBook
+#2ComBook</text></item>
+<item name='$LSECFlags'><text>c</text></item>
+<item name='$Flags'><text>JfF2c7!</text></item>
+<item name='$LaunchXPageRunOnServer'><text>0</text></item>
+<item name='$FlagsNoRefresh'><text/></item>
+<item name='$DefaultXPage'><text>xHome.xsp</text></item></note>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.8" replicaid="C125819B002B3144" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="2768e" sequence="8" unid="34DD334FB46DE49FC125819B0040704D">
+<created><datetime dst="true">20170914T134350,53+02</datetime></created>
+<modified><datetime dst="true">20170914T134745,47+02</datetime></modified>
+<revised><datetime dst="true">20170914T134745,46+02</datetime></revised>
+<lastaccessed><datetime dst="true">20170914T134745,46+02</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20170914T134350,54+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Bruno Uyttenhove/OU=FHQ/OU=USERS/O=FEDASIL</name></updatedby>
+<wassignedby><name>CN=Bruno Uyttenhove/OU=FHQ/OU=USERS/O=FEDASIL</name></wassignedby>
+<item name="$TITLE"><text>myThemeV1.theme</text></item>
+<item name="$Flags"><text>34567Cg~`P</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>myThemeV1.theme</text></item>
+<item name="$CSSFiles"><textlist><text>bower_components/bower_components/bootstrap/dist/css/bootstrap.min.css</text><text>https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css</text><text>bower_components/bootstrap/dist/css/cosmo.min.css</text></textlist></item></note>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.8" replicaid="C125819B002B3144" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="1ba" sequence="3" unid="A90EBB9E07489B66C12570F90057BCB0">
+<created><datetime>20060117T165819,36+01</datetime></created>
+<modified><datetime dst="true">20170914T095150,46+02</datetime></modified>
+<revised><datetime dst="true">20060327T172059,62+02</datetime></revised>
+<lastaccessed><datetime dst="true">20170914T095150,45+02</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20170914T095150,45+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=François Barnich/OU=VIR/OU=USERS/O=FEDASIL</name><name>CN=Valerie Deherder/OU=FHQ/OU=USERS/O=FEDASIL</name></updatedby>
+<wassignedby><name>CN=Valerie Deherder/OU=FHQ/OU=USERS/O=FEDASIL</name></wassignedby>
+<item name="$TITLE"><text>int_star_y.gif</text></item>
+<item name="$Flags"><text>34CiQ</text></item>
+<item name="$FlagsExt"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+
+
+<item name="$MimeType" sign="true"><text>image/gif</text></item>
+<item name="$FileModDT" sign="true"><datetime>20060117T165939,08+01</datetime></item>
+<item name="$ImageNames" sign="true"><text>int_star_y.gif</text></item>
+<item name="$DesignerVersion"><text>6.5</text></item>
+<item name="$Class"><text>Combook_Master</text></item></note>

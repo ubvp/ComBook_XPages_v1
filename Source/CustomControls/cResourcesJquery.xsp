@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view
+	xmlns:xp="http://www.ibm.com/xsp/core">
+	<xp:this.resources>
+		<xp:headTag
+			tagName="script">
+			<xp:this.attributes>
+				<xp:parameter
+					name="type"
+					value="text/javascript" />
+				<xp:parameter
+					name="src"
+					value="bower_components\jquery\dist\jquery.min.js" />
+			</xp:this.attributes>
+		</xp:headTag>
+	</xp:this.resources>
+</xp:view>
